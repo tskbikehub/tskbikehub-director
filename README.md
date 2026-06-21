@@ -1,6 +1,6 @@
 # TSKBikeHub Director
 
-[aureliabutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Ftskbikehub%2Ftskbikehub-director)
 
 TSKBikeHub Director is the central control hub and executive administration platform designed for the TSKBikeHub network. Unlike the operational call-center CRM, this director-level cockpit provides high-level telemetry, structural visibility, and financial governance over the entire project.
 
@@ -116,4 +116,4 @@ Deploy directly to your Cloudflare account using Wrangler bindings:
 bun run deploy
 ```
 
-[aureliabutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2Ftskbikehub%2Ftskbikehub-director)
